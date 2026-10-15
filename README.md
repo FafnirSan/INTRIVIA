@@ -12,3 +12,6 @@ Pesan: Dikurangi miskomnya
 ## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini 
 Kesan: Seru
 Pesan: Semoga sukses
+
+## Harapan Kuliah
+Semoga menang lomba
